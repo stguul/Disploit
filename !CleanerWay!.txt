@@ -1,0 +1,3 @@
+If You don't want to open this Folder all the Time and to search the Run exe than
+I suggest You to make an Shortcut of the Main exe file and then You can put that
+shortcut on Your Desktop or Taskbar.

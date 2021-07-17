@@ -1,0 +1,13 @@
+{
+    "token": "your-token",
+    "on-alt": false,
+    "reedem-token": "redeem-Account-Token",
+    "notification": true,
+
+    "delay-enabled": false,
+    "delay": 5,
+
+    "nitro_sniper": true,
+    "giveaway_sniper": true,
+    "privnote_sniper": true
+}
